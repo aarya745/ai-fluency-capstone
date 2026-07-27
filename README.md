@@ -1,4 +1,4 @@
-# ai-fluency-capstone
+# FlyRank ai-frontend-capstone
 This repository contains my work for the **AI Fluency** course internship at Flyrank AI. The goal of this project is to build an AI-assisted software application while following industry best development practices.
 
 ## Project Description
