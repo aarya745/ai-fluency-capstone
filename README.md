@@ -1,22 +1,50 @@
 # ai-fluency-capstone
-Under my internship at Flyrank ai i have built a capstone project for frontend role
-# AI Fluency Capstone
+This repository contains my work for the **AI Fluency** course internship at Flyrank AI. The goal of this project is to build an AI-assisted software application while following industry best development practices.
 
-This repository contains my work for the AI Fluency course.
+## Project Description
 
-## Goal
-
-Build an AI-assisted software project while following best development practices.
+AI Fluency Capstone is a frontend-focused web application that leverages AI integration (using Claude Code) to enhance user interaction and deliver smarter functionalities. The project is built using modern JavaScript tools and frameworks.
 
 ## Tech Stack
 
-- JavaScript
+- JavaScript (ES6+)
 - Node.js
 - React
-- Git
-- GitHub
-- Claude Code
+- Git & GitHub
+- Claude Code (AI integration)
 
-## Project Status
+## Features
 
-🚧 Setup Complete
+- AI-assisted features powered by Claude Code
+- Responsive and interactive React frontend
+- State management for efficient UI updates
+- Error handling for AI responses
+- Modular and maintainable codebase following best practices
+
+## Installation
+## Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/aarya745/ai-fluency-capstone.git
+```
+
+2. Navigate to the project:
+
+```bash
+cd ai-fluency-capstone
+```
+
+3. Install dependencies:
+
+```bash
+npm install
+```
+
+4. Start the development server:
+
+```bash
+npm start
+```
+
